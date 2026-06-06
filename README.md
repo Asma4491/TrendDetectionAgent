@@ -113,6 +113,8 @@ The system follows a 4-layer architecture:
 
 ## 🔬 How It Works
 
+![Methodology Pipeline](Images/Methodology_pi.png)
+
 ### 6-Step Pipeline
 
 ```
@@ -163,6 +165,7 @@ Trend Score = Volume × Velocity × Decay
 ---
 
 ## 📊 Signal Classification 
+![Keyword Extraction](Images/Keyword_Extract.png)
 
 | Signal | Icon | Condition | Meaning | Your Data Example |
 |--------|------|-----------|---------|-------------------|
@@ -227,7 +230,7 @@ jupyter notebook trend_agent.ipynb
 ---
 
 ## 🖥️ Gradio Web Interface
-
+![Gradio Interface](Images/Gradio_GUI.png)
 TrendAgent includes a beautiful **Gradio-based web interface** with three tabs:
 
 ### Tab 1: 📊 Dashboard
@@ -261,6 +264,7 @@ TrendAgent includes a beautiful **Gradio-based web interface** with three tabs:
 ## 💬 Usage Guide
 
 ### Chat Commands
+![Agent Analysis](Images/Agent_Analysis.png)
 
 | Query | What It Does |
 |-------|---------------|
@@ -329,7 +333,7 @@ Content creators should monitor trend evolution and adjust strategies
 ```
 
 ### Bar Chart Output (Top Trends)
-
+![Word Cloud](Images/Word_Cloud.png)
 ```
 Top Trends (Color: Signal Type)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -346,7 +350,7 @@ Guilty   ███ 15 (⚪ Noise)
 ```
 
 ### 💾 JSON Report Export
-
+![JSON Report](Images/Save_JSONReporter.png)
 ```
 {
   "timestamp": "2026-06-06T14:30:00",
