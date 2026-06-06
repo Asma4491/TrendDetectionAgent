@@ -100,11 +100,7 @@
 
 ## 🏗️ System Architecture
 
-<div align="center">
-  <img src="TrendAgentArchitecture.png" width="800">
-  <br>
-  *Figure 1: Complete TrendAgent System Architecture showing Perception, Processing, Analysis, and Output Layers*
-</div>
+![System Architecture](Images/TrendAgentArchitecture.png)
 
 The system follows a 4-layer architecture:
 
@@ -232,8 +228,6 @@ jupyter notebook trend_agent.ipynb
 
 ## 🖥️ Gradio Web Interface
 
-<div align="center"> <img src="Graduo_GUI.png" width="800"> <br> *Figure 3: TrendAgent Gradio Web Interface showing Dashboard, Chat, and Headlines tabs* </div>
-
 TrendAgent includes a beautiful **Gradio-based web interface** with three tabs:
 
 ### Tab 1: 📊 Dashboard
@@ -262,28 +256,8 @@ TrendAgent includes a beautiful **Gradio-based web interface** with three tabs:
 ---
 
 
-### 📊 Keyword Extraction Results
-<div align="center"> <img src="Keyword_Extract.png" width="700"> <br> *Figure 4: Keyword extraction output showing top 30 trending keywords with frequencies* </div>
-Sample Output from Actual Run:
-
-Rank	Keyword	Frequency	Signal Type
-1	NBSP	192	🔴 STRONG
-2	HTTPS	97	🔴 STRONG
-3	Trump	80	🔴 STRONG
-4	News	75	🔴 STRONG
-5	Times	55	🔴 STRONG
-6	Ceasefire	50	🟡 WEAK
-7	Iran	30	🟡 WEAK
-8	Lebanon	25	🟡 WEAK
-9	York	20	⚪ NOISE
-10	Guilty	15	⚪ NOISE
-
-### Word Cloud Visualization
-<div align="center"> <img src="Word_Cloud.png" width="600"> <br> *Figure 5: Word Cloud showing trend prominence (word size = frequency)* </div>
 
 
-### 🧠 LLM Analysis Output
-<div align="center"> <img src="Agent_Analysis.png" width="700"> <br> *Figure 6: LLM-powered trend analysis with sentiment, drivers, impact assessment, and actionable insights* </div>
 ## 💬 Usage Guide
 
 ### Chat Commands
@@ -372,8 +346,8 @@ Guilty   ███ 15 (⚪ Noise)
 ```
 
 ### 💾 JSON Report Export
-<div align="center"> <img src="Save_JSONReporter.png" width="600"> <br> *Figure 7: JSON report export functionality with structured trend data* </div>
-```json
+
+```
 {
   "timestamp": "2026-06-06T14:30:00",
   "total_articles": 50,
@@ -503,5 +477,4 @@ MIT License - Free for anyone to use
 [Report Bug](https://github.com/ASMA4491/TrendAgent/issues) · [Request Feature](https://github.com/ASMA4491/TrendAgent/issues)
 
 </div>
-```
 
