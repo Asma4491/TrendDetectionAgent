@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-06-06T11:04:17.401612",
+  "summary": {
+    "total_articles": 50,
+    "total_keywords": 30,
+    "weak_signals": 0,
+    "strong_signals": 8,
+    "noise": 12
+  },
+  "top_keywords": [
+    {
+      "keyword": "nbsp",
+      "count": 200
+    },
+    {
+      "keyword": "https",
+      "count": 100
+    },
+    {
+      "keyword": "font",
+      "count": 100
+    },
+    {
+      "keyword": "times",
+      "count": 23
+    },
+    {
+      "keyword": "news",
+      "count": 22
+    },
+    {
+      "keyword": "trump",
+      "count": 20
+    },
+    {
+      "keyword": "york",
+      "count": 16
+    },
+    {
+      "keyword": "california",
+      "count": 11
+    },
+    {
+      "keyword": "election",
+      "count": 10
+    },
+    {
+      "keyword": "governor",
+      "count": 10
+    },
+    {
+      "keyword": "military",
+      "count": 10
+    },
+    {
+      "keyword": "drones",
+      "count": 10
+    },
+    {
+      "keyword": "president",
+      "count": 9
+    },
+    {
+      "keyword": "game",
+      "count": 9
+    },
+    {
+      "keyword": "service",
+      "count": 8
+    },
+    {
+      "keyword": "putin",
+      "count": 8
+    },
+    {
+      "keyword": "world",
+      "count": 8
+    },
+    {
+      "keyword": "texas",
+      "count": 8
+    },
+    {
+      "keyword": "summer",
+      "count": 8
+    },
+    {
+      "keyword": "iranian",
+      "count": 7
+    }
+  ],
+  "trend_history": [
+    {
+      "keyword": "nbsp",
+      "volume": 200,
+      "signal": "strong"
+    },
+    {
+      "keyword": "https",
+      "volume": 100,
+      "signal": "strong"
+    },
+    {
+      "keyword": "font",
+      "volume": 100,
+      "signal": "strong"
+    },
+    {
+      "keyword": "times",
+      "volume": 23,
+      "signal": "strong"
+    },
+    {
+      "keyword": "news",
+      "volume": 22,
+      "signal": "strong"
+    },
+    {
+      "keyword": "trump",
+      "volume": 20,
+      "signal": "strong"
+    },
+    {
+      "keyword": "york",
+      "volume": 16,
+      "signal": "strong"
+    },
+    {
+      "keyword": "california",
+      "volume": 11,
+      "signal": "strong"
+    },
+    {
+      "keyword": "election",
+      "volume": 10,
+      "signal": "noise"
+    },
+    {
+      "keyword": "governor",
+      "volume": 10,
+      "signal": "noise"
+    },
+    {
+      "keyword": "military",
+      "volume": 10,
+      "signal": "noise"
+    },
+    {
+      "keyword": "drones",
+      "volume": 10,
+      "signal": "noise"
+    },
+    {
+      "keyword": "president",
+      "volume": 9,
+      "signal": "noise"
+    },
+    {
+      "keyword": "game",
+      "volume": 9,
+      "signal": "noise"
+    },
+    {
+      "keyword": "service",
+      "volume": 8,
+      "signal": "noise"
+    },
+    {
+      "keyword": "putin",
+      "volume": 8,
+      "signal": "noise"
+    },
+    {
+      "keyword": "world",
+      "volume": 8,
+      "signal": "noise"
+    },
+    {
+      "keyword": "texas",
+      "volume": 8,
+      "signal": "noise"
+    },
+    {
+      "keyword": "summer",
+      "volume": 8,
+      "signal": "noise"
+    },
+    {
+      "keyword": "iranian",
+      "volume": 7,
+      "signal": "noise"
+    }
+  ],
+  "headlines": [
+    {
+      "title": "Democrat Xavier Becerra advances to general election in race for California governor - AP News",
+      "source": "Google News"
+    },
+    {
+      "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies - NPR",
+      "source": "Google News"
+    },
+    {
+      "title": "Amid Mounting Democratic Concern, Platner Says His Past Is Being \u2018Weaponized\u2019 - The New York Times",
+      "source": "Google News"
+    },
+    {
+      "title": "The Forest Service says it's closing offices to cut costs. But the math doesn't add up - NPR",
+      "source": "Google News"
+    },
+    {
+      "title": "Putin to Zelenskyy: No peace talks \u2014 and don\u2019t call me old - politico.eu",
+      "source": "Google News"
+    },
+    {
+      "title": "DOJ confirms in court papers the \"anti-weaponization fund\" isn't going forward, asks judges to reject lawsuits - CBS News",
+      "source": "Google News"
+    },
+    {
+      "title": "Second screwworm case in Texas confirmed, as Abbott expands state disaster declaration - The Texas Tribune",
+      "source": "Google News"
+    },
+    {
+      "title": "Feds pursuing \u2018multiple\u2019 election fraud investigations, top prosecutor says - Los Angeles Times",
+      "source": "Google News"
+    },
+    {
+      "title": "National Park mountain guide dies in fall on Mount McKinley - NBC News",
+      "source": "Google News"
+    },
+    {
+      "title": "Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV - The New York Times",
+      "source": "Google News"
+    },
+    {
+      "title": "Ukraine Launches Scores Of Drones On Final Day Of Major Russian Investment Forum - Radio Free Europe/Radio Liberty",
+      "source": "Google News"
+    },
+    {
+      "title": "Madrid: Awaiting Pope Leo\u2019s arrival and a revitalization of the faith - Vatican News",
+      "source": "Google News"
+    },
+    {
+      "title": "Fujimori vs Sanchez: What to know about Peru\u2019s presidential run-off election - Al Jazeera",
+      "source": "Google News"
+    },
+    {
+      "title": "As Ebola Spreads in East Africa, Will China Step Up? - The New York Times",
+      "source": "Google News"
+    },
+    {
+      "title": "Trump says he\u2019s considering government stake in top AI companies - The Washington Post",
+      "source": "Google News"
+    },
+    {
+      "title": "SpaceX IPO running at two times oversubscribed, sources say - Reuters",
+      "source": "Google News"
+    },
+    {
+      "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+      "source": "Google News"
+    },
+    {
+      "title": "U.S. Job Market Pushes Past Shocks and Strains - The New York Times",
+      "source": "Google News"
+    },
+    {
+      "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More - MacRumors",
+      "source": "Google News"
+    },
+    {
+      "title": "Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer",
+      "source": "Google News"
+    }
+  ]
+}
